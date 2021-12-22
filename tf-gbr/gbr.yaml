@@ -1,0 +1,9 @@
+path: dataset/
+train: images/train
+val: images/val
+test:  images/test
+
+# Classes
+nc: 1  # number of classes
+names: ['starfish']
+
